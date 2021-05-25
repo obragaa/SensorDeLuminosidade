@@ -15,5 +15,5 @@ Link para o site de referência usado neste projeto:
 
 # Conexões
 
-![Uploading image.png…]()
-
+![Exemplo de conexão](./img/example.PNG)
+Format: ![Alt Text](url)
