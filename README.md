@@ -13,6 +13,6 @@ Link para o site de referência usado neste projeto:
 - https://portal.vidadesilicio.com.br/sensor-de-luz-com-ldr/
 
 
-# Conexões
+# Conexões:
 
 ![Exemplo de conexão](./img/example.PNG)
